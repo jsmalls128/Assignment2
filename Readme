@@ -1,0 +1,22 @@
+Jamal Ballard (811-789-704)
+jmb82096@uga.edu
+
+## Instructions
+
+For all the following instructions you must be in the directory
+corresponding to the program
+
+To clean my code
+...
+$ make clean
+...
+
+To compile my code
+...
+$ make main
+...
+
+To run my code
+...
+$ ./main [input_file]
+...
